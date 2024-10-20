@@ -60,7 +60,7 @@ print(f"Charles Casper Stockham: {charles_percentage:.2f}% (with {charles_count}
 print(f"Diana DeGette: {diana_percentage:.2f}% (with {diana_count} votes)")
 print(f"Raymon Anthony Doane: {raymon_percentage:.2f}% (with {raymon_count} votes)")
 print(f"------------------------------")
-print(f"WINNER IS: !!!!!!!{winner.upper()}!!!!!!!")
+print(f"THE WINNER IS: !!!!!!!{winner.upper()}!!!!!!!")
 # Saving the winning candidate summary to the text file
 #Printing the output
 output = (
@@ -68,11 +68,11 @@ f"Election Results\n"
 f"------------------------\n"
 f"Total Votes: {total_votes}\n"
 f"------------------------\n"
-f"Charles Casper Stockham: {charles_percentage:.2f}% (with {charles_count} votes\n"
-f"Diana DeGette: {diana_percentage:.2f}% (with {diana_count} votes\n"
-f"Raymon Anthony Doane: {raymon_percentage:.2f}% (with {raymon_count} votes\n" 
+f"Charles Casper Stockham: {charles_percentage:.2f}% (with {charles_count} votes)\n"
+f"Diana DeGette: {diana_percentage:.2f}% (with {diana_count} votes)\n"
+f"Raymon Anthony Doane: {raymon_percentage:.2f}% (with {raymon_count} votes)\n" 
 f"-------------------------\n"
-f"WINNER IS: {winner.upper()}\n"
+f"THE WINNER IS: {winner.upper()}\n"
 f"-------------------------\n"
 )
 
