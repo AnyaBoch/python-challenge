@@ -12,16 +12,13 @@ My task was to create a Python script that analyzes the records to calculate eac
 - The greatest decrease in profits (date and amount) over the entire period
 
 My analysis should be aligned with the following results:
-
-Financial Analysis
-----------------------------
+**Financial Analysis**
 Total Months: 86
 Total: $22564198
 Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
-_____________
+In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
 **_PyBank difficulties:_**
 I struggles a lot for this assignment. I needed help of a tutor cause I neede more explanation for calculations, sequence, and coding methods. The tutor provided the work as a sample. My problem was easily solved in Excel, but here it turned out to be quite a challenging task. I was working on PyBank using conditions such as: 
@@ -34,22 +31,22 @@ In this Challenge, I am tasked with helping a small, rural town modernize its vo
 
 I was given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". My task was to create a Python script that analyzes the votes and calculates each of the following values:
 
-- The total number of votes cast
-- A complete list of candidates who received votes
-- The percentage of votes each candidate won
-- The total number of votes each candidate won
-- The winner of the election based on popular vote
+-The total number of votes cast
+-A complete list of candidates who received votes
+-The percentage of votes each candidate won
+-The total number of votes each candidate won
+-The winner of the election based on popular vote
+-In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
 
-Election Results
--------------------------
+**Election Results**
 Total Votes: 369711
--------------------------
 Charles Casper Stockham: 23.049% (85213)
 Diana DeGette: 73.812% (272892)
 Raymon Anthony Doane: 3.139% (11606)
--------------------------
 Winner: Diana DeGette
--------------------------
+In addition, my final script should has both print the analysis to the terminal and export a text file with the results. Same like previous assignment.
+
+
 **_PyPoll difficulties:_**
 I went the easier way creatring biblioteque of candidates, and it works perfectly fine. Chat GPT and Xpert Learning assistant rock.
